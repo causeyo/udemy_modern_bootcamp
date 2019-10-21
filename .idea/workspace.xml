@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e6b62a-2fff-4cd5-92a9-70c88e3330af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="53e6b62a-2fff-4cd5-92a9-70c88e3330af" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kwargs_calc.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kwargs_calc.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lambdas.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -75,6 +83,7 @@
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/rps_with_loop.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py" />
+        <option value="$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py" />
       </list>
     </option>
   </component>
@@ -135,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kwargs_calc">
+  <component name="RunManager" selected="Python.lambdas">
     <configuration name="art" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,6 +175,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/89_emoji_art_while_loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="modern_python3_bootcamp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,18 +230,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.art" />
       <item index="1" class="java.lang.String" itemvalue="Python.rps_with_loop" />
       <item index="2" class="java.lang.String" itemvalue="Python.scratch" />
       <item index="3" class="java.lang.String" itemvalue="Python.kwargs_calc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lambdas" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.kwargs_calc" />
-        <item index="1" class="java.lang.String" itemvalue="Python.scratch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rps_with_loop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.art" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.lambdas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kwargs_calc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scratch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.rps_with_loop" />
+        <item index="4" class="java.lang.String" itemvalue="Python.art" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +336,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding />
         </state>
       </provider>
