@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53e6b62a-2fff-4cd5-92a9-70c88e3330af" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="53e6b62a-2fff-4cd5-92a9-70c88e3330af" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,18 +44,30 @@
       <file leaf-file-name="exception_diy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/exception_diy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modules_pyfiglet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ugly_code.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/ugly_code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules_pyfiglet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_pyfiglet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -117,6 +127,7 @@
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/exception_diy.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/modules_colors.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/modules_pyfiglet.py" />
+        <option value="$PROJECT_DIR$/89_emoji_art_while_loop/ugly_code.py" />
       </list>
     </option>
   </component>
@@ -651,6 +662,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_pyfiglet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/pdb_debugger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -667,26 +693,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_colors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/exception_diy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_pyfiglet.py">
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/ugly_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="359">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
