@@ -31,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="try_except_finally_example.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_finally_example.py">
+      <file leaf-file-name="try_except_example_02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example_02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="41" column="70" lean-forward="false" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+            <state relative-caret-position="349">
+              <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,6 +80,7 @@
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/debugging_errors_handling.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_finally_example.py" />
+        <option value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example_02.py" />
       </list>
     </option>
   </component>
@@ -141,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try_except_finally_example">
+  <component name="RunManager" selected="Python.try_except_example_02">
     <configuration name="debugging_errors_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,23 +160,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="filter_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/89_emoji_art_while_loop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="modern_python3_bootcamp" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/filter_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="try_except_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,6 +173,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="try_except_example_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/89_emoji_art_while_loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="modern_python3_bootcamp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,19 +229,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.filter_example" />
-      <item index="1" class="java.lang.String" itemvalue="Python.zip_example" />
-      <item index="2" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
-      <item index="3" class="java.lang.String" itemvalue="Python.try_except_example" />
-      <item index="4" class="java.lang.String" itemvalue="Python.try_except_finally_example" />
+      <item index="0" class="java.lang.String" itemvalue="Python.zip_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
+      <item index="2" class="java.lang.String" itemvalue="Python.try_except_example" />
+      <item index="3" class="java.lang.String" itemvalue="Python.try_except_finally_example" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try_except_example_02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.try_except_finally_example" />
-        <item index="1" class="java.lang.String" itemvalue="Python.try_except_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
-        <item index="3" class="java.lang.String" itemvalue="Python.zip_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python.filter_example" />
+        <item index="0" class="java.lang.String" itemvalue="Python.try_except_example_02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.try_except_finally_example" />
+        <item index="2" class="java.lang.String" itemvalue="Python.try_except_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
+        <item index="4" class="java.lang.String" itemvalue="Python.zip_example" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +269,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1680" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -531,6 +533,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_finally_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="34" lean-forward="false" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/rps_with_loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -539,10 +549,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_finally_example.py">
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="41" column="70" lean-forward="false" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+        <state relative-caret-position="349">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding />
         </state>
       </provider>
