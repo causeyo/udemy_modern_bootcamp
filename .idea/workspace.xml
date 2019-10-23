@@ -14,7 +14,7 @@
       <file leaf-file-name="art.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/art.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="0">
               <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
@@ -24,68 +24,18 @@
       <file leaf-file-name="rps_with_loop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/rps_with_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
+            <state relative-caret-position="483">
               <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kwargs_calc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py">
+      <file leaf-file-name="try_except_example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lambdas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/map_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/filter_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zip_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/zip_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="debugging_errors_handling.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/debugging_errors_handling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="324">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -128,6 +78,7 @@
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/filter_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/zip_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/debugging_errors_handling.py" />
+        <option value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py" />
       </list>
     </option>
   </component>
@@ -189,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.debugging_errors_handling">
+  <component name="RunManager" selected="Python.try_except_example">
     <configuration name="debugging_errors_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,23 +175,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/89_emoji_art_while_loop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="modern_python3_bootcamp" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="map_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,6 +188,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/map_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="try_except_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/89_emoji_art_while_loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="modern_python3_bootcamp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +227,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.lambdas" />
-      <item index="1" class="java.lang.String" itemvalue="Python.map_example" />
-      <item index="2" class="java.lang.String" itemvalue="Python.filter_example" />
-      <item index="3" class="java.lang.String" itemvalue="Python.zip_example" />
-      <item index="4" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
+      <item index="0" class="java.lang.String" itemvalue="Python.map_example" />
+      <item index="1" class="java.lang.String" itemvalue="Python.filter_example" />
+      <item index="2" class="java.lang.String" itemvalue="Python.zip_example" />
+      <item index="3" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try_except_example" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
-        <item index="1" class="java.lang.String" itemvalue="Python.zip_example" />
-        <item index="2" class="java.lang.String" itemvalue="Python.filter_example" />
-        <item index="3" class="java.lang.String" itemvalue="Python.map_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lambdas" />
+        <item index="0" class="java.lang.String" itemvalue="Python.try_except_example" />
+        <item index="1" class="java.lang.String" itemvalue="Python.debugging_errors_handling" />
+        <item index="2" class="java.lang.String" itemvalue="Python.zip_example" />
+        <item index="3" class="java.lang.String" itemvalue="Python.filter_example" />
+        <item index="4" class="java.lang.String" itemvalue="Python.map_example" />
       </list>
     </recent_temporary>
   </component>
@@ -517,29 +468,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/art.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="0">
           <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/rps_with_loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/lambdas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -576,6 +511,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/kwargs_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/rps_with_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/try_except_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding />
         </state>
       </provider>
