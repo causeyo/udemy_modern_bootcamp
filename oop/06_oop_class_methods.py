@@ -54,3 +54,4 @@ uncle = User.from_string("Uncle,Phil,89")
 print(uncle.first)
 print(uncle.full_name())
 print(uncle)
+
