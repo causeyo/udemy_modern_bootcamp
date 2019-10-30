@@ -14,7 +14,5 @@ class Counter:
         raise StopIteration
 
 
-
-
 for x in Counter(50,70):
     print(x)
