@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11_decorators_kwargs_check.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="11_decorators_kwargs_check.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decorators/11_decorators_kwargs_check.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_decorators_multilayer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/decorators/12_decorators_multilayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/89_emoji_art_while_loop/map_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/filter_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/zip_example.py" />
         <option value="$PROJECT_DIR$/89_emoji_art_while_loop/debugging_errors_handling.py" />
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/decorators/09_decorators_fewer_args.py" />
         <option value="$PROJECT_DIR$/decorators/10_decorators_only_ints.py" />
         <option value="$PROJECT_DIR$/decorators/11_decorators_kwargs_check.py" />
+        <option value="$PROJECT_DIR$/decorators/12_decorators_multilayer.py" />
       </list>
     </option>
   </component>
@@ -333,13 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/art.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/filter_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -610,7 +613,7 @@
         <state relative-caret-position="342">
           <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
-            <element signature="e#38#65#0" expanded="true" />
+            <element signature="e#38#65#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -651,6 +654,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorators/12_decorators_multilayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
