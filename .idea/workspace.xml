@@ -43,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_decorators_metadata.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04_decorators_metadata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decorators/04_decorators_metadata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="378">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_decorator_speedtest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/decorators/05_decorator_speedtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,6 +145,7 @@
         <option value="$PROJECT_DIR$/decorators/02_decorators_intro.py" />
         <option value="$PROJECT_DIR$/decorators/03_decorators_args_kwargs.py" />
         <option value="$PROJECT_DIR$/decorators/04_decorators_metadata.py" />
+        <option value="$PROJECT_DIR$/decorators/05_decorator_speedtest.py" />
       </list>
     </option>
   </component>
@@ -203,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03_decorators_args_kwargs">
+  <component name="RunManager" selected="Python.04_decorators_metadata">
     <configuration name="01_higher_order_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,19 +266,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="22_oop_infinite_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_decorators_metadata" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/22_oop_infinite_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/04_decorators_metadata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +301,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.22_oop_infinite_generator" />
-      <item index="1" class="java.lang.String" itemvalue="Python.23_oop_generator_comprehension" />
-      <item index="2" class="java.lang.String" itemvalue="Python.01_higher_order_functions" />
-      <item index="3" class="java.lang.String" itemvalue="Python.02_decorators_intro" />
-      <item index="4" class="java.lang.String" itemvalue="Python.03_decorators_args_kwargs" />
+      <item index="0" class="java.lang.String" itemvalue="Python.23_oop_generator_comprehension" />
+      <item index="1" class="java.lang.String" itemvalue="Python.01_higher_order_functions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.02_decorators_intro" />
+      <item index="3" class="java.lang.String" itemvalue="Python.03_decorators_args_kwargs" />
+      <item index="4" class="java.lang.String" itemvalue="Python.04_decorators_metadata" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.03_decorators_args_kwargs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02_decorators_intro" />
-        <item index="2" class="java.lang.String" itemvalue="Python.01_higher_order_functions" />
-        <item index="3" class="java.lang.String" itemvalue="Python.23_oop_generator_comprehension" />
-        <item index="4" class="java.lang.String" itemvalue="Python.22_oop_infinite_generator" />
+        <item index="0" class="java.lang.String" itemvalue="Python.04_decorators_metadata" />
+        <item index="1" class="java.lang.String" itemvalue="Python.03_decorators_args_kwargs" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02_decorators_intro" />
+        <item index="3" class="java.lang.String" itemvalue="Python.01_higher_order_functions" />
+        <item index="4" class="java.lang.String" itemvalue="Python.23_oop_generator_comprehension" />
       </list>
     </recent_temporary>
   </component>
@@ -330,9 +341,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3004269" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3004269" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21135646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -361,7 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/89_emoji_art_while_loop/modules_colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -662,8 +671,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decorators/04_decorators_metadata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorators/05_decorator_speedtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
