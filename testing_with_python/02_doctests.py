@@ -3,6 +3,7 @@ ISSUES WITH DOCTESTS
 - syntax is little strange
 - clutters up our function code
 - lacks many features of larger testing tools
+- tests can be brittle
 """
 
 
