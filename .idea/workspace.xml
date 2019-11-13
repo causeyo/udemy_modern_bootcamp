@@ -46,8 +46,8 @@
       <file leaf-file-name="04_copy_excercise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files_IO/04_copy_excercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="4" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -63,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06_statistics.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="06_statistics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files_IO/06_statistics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="414">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07_find_and_replace.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/files_IO/07_find_and_replace.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/http/http_headers.py" />
         <option value="$PROJECT_DIR$/http/http_query_string.py" />
         <option value="$PROJECT_DIR$/oop/01_oop_intro.py" />
         <option value="$PROJECT_DIR$/oop/02_oop_underscore_attrs.py" />
@@ -169,6 +178,7 @@
         <option value="$PROJECT_DIR$/files_IO/04_copy_excercise.py" />
         <option value="$PROJECT_DIR$/files_IO/05_copy_and_reverse.py" />
         <option value="$PROJECT_DIR$/files_IO/06_statistics.py" />
+        <option value="$PROJECT_DIR$/files_IO/07_find_and_replace.py" />
       </list>
     </option>
   </component>
@@ -248,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06_statistics">
+  <component name="RunManager" selected="Python.07_find_and_replace">
     <configuration name="01_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,35 +327,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="py.test in robot_tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="07_find_and_replace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_with_python/04_unittest_setup_teardown" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files_IO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing_with_python/04_unittest_setup_teardown/robot_tests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files_IO/07_find_and_replace.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in robot_tests.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.01_read" />
-      <item index="2" class="java.lang.String" itemvalue="Python.02_read_with" />
-      <item index="3" class="java.lang.String" itemvalue="Python.03_write" />
-      <item index="4" class="java.lang.String" itemvalue="Python.06_statistics" />
+      <item index="0" class="java.lang.String" itemvalue="Python.01_read" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02_read_with" />
+      <item index="2" class="java.lang.String" itemvalue="Python.03_write" />
+      <item index="3" class="java.lang.String" itemvalue="Python.06_statistics" />
+      <item index="4" class="java.lang.String" itemvalue="Python.07_find_and_replace" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.06_statistics" />
-        <item index="1" class="java.lang.String" itemvalue="Python.03_write" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02_read_with" />
-        <item index="3" class="java.lang.String" itemvalue="Python.01_read" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in robot_tests.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.07_find_and_replace" />
+        <item index="1" class="java.lang.String" itemvalue="Python.06_statistics" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03_write" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02_read_with" />
+        <item index="4" class="java.lang.String" itemvalue="Python.01_read" />
       </list>
     </recent_temporary>
   </component>
@@ -390,13 +402,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1922" height="1081" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20064034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50368035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50368035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3270242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33648792" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,13 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oop/06_oop_class_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oop/oop_iterators_own_loop.py" />
     <entry file="file://$PROJECT_DIR$/oop/oop_iterators_iterables.py" />
     <entry file="file://$PROJECT_DIR$/oop/oop_custom_iterator.py" />
@@ -729,22 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files_IO/03_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="80" lean-forward="false" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files_IO/04_copy_excercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files_IO/02_read_with.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -771,8 +761,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/files_IO/06_statistics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files_IO/03_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="80" lean-forward="false" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files_IO/04_copy_excercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files_IO/07_find_and_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
