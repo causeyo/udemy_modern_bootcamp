@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53e6b62a-2fff-4cd5-92a9-70c88e3330af" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beautiful_soup/04_bs_extract.py" afterPath="$PROJECT_DIR$/beautiful_soup/04_bs_extract.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_bs_extract.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04_bs_extract.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beautiful_soup/04_bs_extract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="414">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -46,11 +45,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="11_re_swap_names.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regular_ex/11_re_swap_names.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="03_bs_navigating.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beautiful_soup/03_bs_navigating.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="114" column="6" lean-forward="false" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+            <state relative-caret-position="990">
+              <caret line="55" column="12" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="115" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -75,7 +84,9 @@
       <find>os.</find>
       <find>Cards</find>
       <find />
-      <find />
+      <find>soup.</find>
+      <find>data</find>
+      <find>soup.body.</find>
     </findStrings>
     <replaceStrings>
       <replace>kwargs['first']</replace>
@@ -84,7 +95,8 @@
       <replace>kwargs['make_float']</replace>
       <replace>cards</replace>
       <replace />
-      <replace />
+      <replace>content</replace>
+      <replace>content.</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -93,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/oop/21_oop_generators_summing.py" />
         <option value="$PROJECT_DIR$/oop/new" />
         <option value="$PROJECT_DIR$/oop/22_oop_infinite_generator.py" />
         <option value="$PROJECT_DIR$/oop/23_oop_generator_comprehension.py" />
@@ -144,13 +155,14 @@
         <option value="$PROJECT_DIR$/beautiful_soup/01_bs_basics.py" />
         <option value="$PROJECT_DIR$/beautiful_soup/03_bs_navigating.py" />
         <option value="$PROJECT_DIR$/beautiful_soup/04_bs_extract.py" />
+        <option value="$PROJECT_DIR$/regular_ex/11_re_swap_names.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1920" />
-    <option name="width" value="1914" />
-    <option name="height" value="1080" />
+    <option name="width" value="1680" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,13 +192,12 @@
             <path>
               <item name="modern_python3_bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="modern_python3_bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="beautiful_soup" type="462c0819:PsiDirectoryNode" />
+              <item name="regular_ex" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04_bs_extract">
+  <component name="RunManager" selected="Python.11_re_swap_names">
     <configuration name="01_bs_basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,37 +293,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="11_update_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_re_swap_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="modern_python3_bootcamp" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv/11_update_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_ex/11_re_swap_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.11_update_users" />
-      <item index="1" class="java.lang.String" itemvalue="Python.01_bs_basics" />
-      <item index="2" class="java.lang.String" itemvalue="Python.02_bs_accessing_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.03_bs_navigating" />
-      <item index="4" class="java.lang.String" itemvalue="Python.04_bs_extract" />
+      <item index="0" class="java.lang.String" itemvalue="Python.01_bs_basics" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02_bs_accessing_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.03_bs_navigating" />
+      <item index="3" class="java.lang.String" itemvalue="Python.04_bs_extract" />
+      <item index="4" class="java.lang.String" itemvalue="Python.11_re_swap_names" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.04_bs_extract" />
-        <item index="1" class="java.lang.String" itemvalue="Python.03_bs_navigating" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02_bs_accessing_data" />
-        <item index="3" class="java.lang.String" itemvalue="Python.01_bs_basics" />
-        <item index="4" class="java.lang.String" itemvalue="Python.11_update_users" />
+        <item index="0" class="java.lang.String" itemvalue="Python.11_re_swap_names" />
+        <item index="1" class="java.lang.String" itemvalue="Python.04_bs_extract" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03_bs_navigating" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02_bs_accessing_data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.01_bs_basics" />
       </list>
     </recent_temporary>
   </component>
@@ -355,20 +367,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="1920" y="0" width="1922" height="1081" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20917822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50368035" sideWeight="0.5170758" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38485804" sideWeight="0.48292422" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270242" sideWeight="0.49359658" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38485804" sideWeight="0.48292422" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37960044" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20609884" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -412,19 +424,17 @@
           <url>file://$PROJECT_DIR$/testing_with_python/03_unittest/tests.py</url>
           <line>15</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/beautiful_soup/04_bs_extract.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testing_with_python/03_unittest/activities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testing_with_python/03_unittest/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -719,14 +729,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/beautiful_soup/new.py" />
-    <entry file="file://$PROJECT_DIR$/beautiful_soup/02_bs_accessing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beautiful_soup/01_bs_basics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -735,21 +737,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/beautiful_soup/02_bs_accessing_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/beautiful_soup/03_bs_navigating.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="114" column="6" lean-forward="false" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+        <state relative-caret-position="990">
+          <caret line="55" column="12" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="115" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/beautiful_soup/04_bs_extract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state relative-caret-position="414">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regular_ex/11_re_swap_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
