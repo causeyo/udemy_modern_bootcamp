@@ -71,7 +71,7 @@ def main():
                 tries = 4
                 quote_dict = random.choice(work_list)
             else:
-                print("\nSEE YOU LATER AGATA!!!\n")
+                print("\nSEE YOU LATER!!!\n")
                 break
 
         if guess == quote_dict['author']:
