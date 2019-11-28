@@ -1,5 +1,6 @@
 # udemy solutions
 
+
 def reverse_string(str):
     s = ''
     for i, char in enumerate(str[::-1]):
