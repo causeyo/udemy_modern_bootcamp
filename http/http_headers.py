@@ -12,10 +12,12 @@ print(response.text)
 response_plain = requests.get(url, headers={"Accept": "text/plain"})
 print(response_plain.text)
 
+# here we have string under text
 response_json = requests.get(url, headers={"Accept": "application/json"})
 print(response_json.text)
 print(type(response_json.text))
 
+# here we have dict under json
 response_json = requests.get(url, headers={"Accept": "application/json"})
 data = response_json.json()
 print(type(data))
